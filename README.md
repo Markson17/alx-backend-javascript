@@ -1,4 +1,4 @@
-# Folder README
+# ALX Backend Javascript README 
 
 ## 0x00-ES6_basic
 
