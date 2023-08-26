@@ -7,3 +7,7 @@ This folder contains the basic concepts and features of ES6 (ECMAScript 2015). I
 # 0x05-Node_JS_Basics
 
 This repository contains a set of tasks aimed at practicing various aspects of Node.js. Each task focuses on a specific concept and builds upon the previous ones. Below is a guide to understanding and completing each task.
+
+## 0x06-unittests_in_js
+
+This repository contains a series of tasks focused on unit testing and integration testing in JavaScript. Each task builds upon the previous one, showcasing different testing techniques and practices.
